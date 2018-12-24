@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Branch Context group" displayType="NONE" />
-    <notification groupId="PyCharm Professional Advertiser" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
