@@ -4,5 +4,8 @@
       <action id="ReformatCode" />
       <action id="SaveAll" />
     </macro>
+    <macro name="move right">
+      <action id="MoveTabRight" />
+    </macro>
   </component>
 </application>

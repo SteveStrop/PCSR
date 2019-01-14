@@ -2,5 +2,8 @@
   <action id="Macro.formatAndSave">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Macro.move right">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="SaveAll" />
 </keymap>
