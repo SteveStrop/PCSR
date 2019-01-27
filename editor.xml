@@ -16,7 +16,5 @@
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true">
-    <option name="elementHighlighting" value="true" />
-  </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" />
 </application>
