@@ -6,6 +6,7 @@
       <mapping pattern="OOP homework.py" type="PLAIN_TEXT" />
       <mapping pattern="tyj" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <mapping pattern="file_system_lib" type="Python" />
       <mapping pattern="nested list" type="Python" />
