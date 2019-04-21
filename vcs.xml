@@ -42,9 +42,13 @@
           <option name="url" value="https://github.com/LukasMarx/react-file-upload.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SteveStrop/floorplan_extractor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="G:\React" />
+    <option name="cloneParentDir" value="G:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
