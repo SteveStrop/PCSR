@@ -9,7 +9,7 @@
     </Patterns>
     <parsing>
       <list>
-        <LogParsingPattern name="AgentBack" pattern="(\[.*\])(.*-)(.*:-)(.*)" timePattern="hh:mm:ss" linePattern="^\[" severityId="1" categoryId="0" fullmatch="true" />
+        <LogParsingPattern name="AgentBack" />
       </list>
     </parsing>
     <settingsVersion>4</settingsVersion>
