@@ -9,7 +9,7 @@
     </Patterns>
     <parsing>
       <list>
-        <LogParsingPattern name="AgentBack" />
+        <LogParsingPattern enabled="false" name="AgentBack" />
       </list>
     </parsing>
     <settingsVersion>4</settingsVersion>
