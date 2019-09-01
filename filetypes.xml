@@ -4,25 +4,27 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="BridgeBasics.py" type="PLAIN_TEXT" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="tyj" type="PLAIN_TEXT" />
       <mapping pattern="Athelete_sort.py" type="PLAIN_TEXT" />
-      <mapping pattern="OOP homework.py" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
+      <mapping pattern="BridgeBasics.py" type="PLAIN_TEXT" />
+      <mapping pattern="tyj" type="PLAIN_TEXT" />
+      <mapping pattern="OOP homework.py" type="PLAIN_TEXT" />
       <mapping ext="pyd" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="tests" type="Python" />
       <mapping pattern="file_system_lib" type="Python" />
       <mapping pattern="nested list" type="Python" />
-      <mapping pattern="tests" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*estk.jsx" approved="true" type="ExtendScript jsx" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="*ESTK.jsx" approved="true" type="ExtendScript jsx" />
     </extensionMap>
   </component>
 </application>
