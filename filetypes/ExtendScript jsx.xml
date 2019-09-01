@@ -11,10 +11,10 @@
       <option name="HAS_PARENS" value="true" />
       <option name="HAS_STRING_ESCAPES" value="true" />
     </options>
-    <keywords keywords="ExternalObject;Folder;app" ignore_case="false" />
-    <keywords2 keywords="$.evalFile;false;if;new;return;true;var" />
-    <keywords3 keywords="function" />
-    <keywords4 />
+    <keywords keywords="catch;else;false;for;function;if;instanceof;new;return;true;try;undefined;var" ignore_case="false" />
+    <keywords2 keywords="AdobeXMPScript;document;eventHandlers;exists;fsName;handled;handler;length;line;name;object;parent;presentationPath;selectionLength;selections;spec;synchronousMetadata;synchronousMode;type;value" />
+    <keywords3 keywords="Document" />
+    <keywords4 keywords="BitmapData;ExternalObject;File;Folder;XMPFile;XMPMeta;alert;canPutXMP;chooseMenuItem;close;closeFile;confirm;evalFile;exportTo;getFiles;getProperty;hide;max;maximize;min;parseInt;pop;push;putXMP;quit;remove;removeProperties;resize;round;selectAll#;serialize;setProperty;system" />
   </highlighting>
   <extensionMap>
     <mapping pattern="*es.jsx" />
